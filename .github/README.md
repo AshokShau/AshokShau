@@ -8,6 +8,8 @@
         </div>
         <h2>ʜɪ ! ɪᴛ's ᴍᴇ ᴀʙɪsʜɴᴏɪ</h2>
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" style="width: 30px;">
+        <h3>Top Git:</h3>
+        <a href="https://topgit.netlify.app/?user=Abishnoi69"><img src="https://img.shields.io/badge/Abishnoi-30302f?style=for-the-badge&logo=github" alt="Top Git"></a>
         <h3>ᴛᴇᴄʜ sᴛᴀᴄᴋ</h3>
         <img src="https://skillicons.dev/icons?i=python,go,vscode,linux,git,github,githubactions,flask,html,markdown,mongo,sqlite,mysql,postgres,redis" alt="Skills">
         <div align="center">
