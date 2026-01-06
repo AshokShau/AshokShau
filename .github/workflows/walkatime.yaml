@@ -16,9 +16,14 @@ jobs:
     steps:
       - name: Update README with WakaTime stats
         uses: avinal/Profile-Readme-WakaTime@master
+        env:
+          GIT_AUTHOR_NAME: AshokShau
+          GIT_AUTHOR_EMAIL: 114943948+AshokShau@users.noreply.github.com
+          GIT_COMMITTER_NAME: AshokShau
+          GIT_COMMITTER_EMAIL: 114943948+AshokShau@users.noreply.github.com
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "master"
-          COMMIT_MSG: "Automated README update"
+          COMMIT_MSG: "chore(readme): auto-update WakaTime stats"
           STATS_RANGE: "last_7_days"
