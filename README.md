@@ -94,13 +94,17 @@ Backend developer from India 🇮🇳 focused on building **high-performance API
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AshokShau&theme=github-dark-blue&hide_border=true&fire=FFFFFF" height="180"  alt=""/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AshokShau&theme=github-dark-blue&hide_border=true&fire=FFFFFF" height="180" />
 
-<img src="https://github-contributor-stats.vercel.app/api?username=AshokShau&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"  alt=""/>
+<img src="https://github-contributor-stats.vercel.app/api?username=AshokShau&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400" />
 
 </div>
 
-![AshokShau's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshokShau&theme=tokyo-night)
+## 📈 My Code Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AshokShau/AshokShau/master/images/stat.svg" alt="My WakaTime Activity" />
+</div>
 
 ---
 
